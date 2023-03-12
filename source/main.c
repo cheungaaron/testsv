@@ -1,5 +1,5 @@
 /*test files*/
-
+/*.gitµÄÅäÖÃÎÄ¼ş*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
@@ -26,4 +26,5 @@ int main(void)
 	printf("ch=%c,ch1=%c",ch,ch1);
 	system("pause");
 	return 0;
+
 }
