@@ -21,7 +21,7 @@ int main(void)
 	scanf("%d",&n);
 	w = gcd(m,n);
 	printf("%d\n",sizeof(pch));
-	printf("log10(%d)Ҳ����%.16lf\n",m,log10(m));
+	printf("log10(%d)=%.16lf\n",m,log10(m));
 	sort_numbers(&m,&n);
 	printf("ch=%c,ch1=%c",ch,ch1);
 	system("pause");
