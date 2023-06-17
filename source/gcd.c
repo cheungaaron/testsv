@@ -16,4 +16,5 @@ unsigned int gcd(unsigned int m, unsigned int n)
 		
 	}
 	return result;
+	
 }
